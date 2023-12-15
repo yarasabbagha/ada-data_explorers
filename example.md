@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Merry Christmas](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FMerryChristmasAnimations%2F&psig=AOvVaw1wg7ioJN3QyPWAQ1ymEzmt&ust=1702739416991000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC3v-vckYMDFQAAAAAdAAAAABAD)
+![Merry Christmas](./assets/img/pere_noel.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
